@@ -14,3 +14,9 @@ The Attentive React Native example app is an example for how to use the Attentiv
 ### Does Attentive provide an installable React Native Library?
 
 No. Host apps will need to use this example's bridging code in their app to use the Attentive SDKs.
+
+### Which version of the Attentive SDKs is this example compatible with?
+
+iOS: 0.3.2+
+
+Android: 0.3.3+
